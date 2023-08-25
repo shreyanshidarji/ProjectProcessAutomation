@@ -1,0 +1,7 @@
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\bin\Debug\ProjectProcessAutomation.exe.config
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\bin\Debug\ProjectProcessAutomation.exe
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\bin\Debug\ProjectProcessAutomation.pdb
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.csproj.AssemblyReference.cache
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.csproj.CoreCompileInputs.cache
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.exe
+D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.pdb
