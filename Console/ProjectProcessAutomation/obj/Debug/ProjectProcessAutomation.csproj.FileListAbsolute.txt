@@ -5,3 +5,15 @@ D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\Projec
 D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.csproj.CoreCompileInputs.cache
 D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.exe
 D:\vsprojects\ProjectProcessAutomation\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.pdb
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\ProjectProcessAutomation.exe.config
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\ProjectProcessAutomation.exe
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\ProjectProcessAutomation.pdb
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\PPA.DataAccess.dll
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\PPA.Models.dll
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\PPA.DataAccess.pdb
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\bin\Debug\PPA.Models.pdb
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.csproj.AssemblyReference.cache
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.csproj.CoreCompileInputs.cache
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.csproj.CopyComplete
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.exe
+D:\gitpro\ProjectProcessAutomation\Console\ProjectProcessAutomation\obj\Debug\ProjectProcessAutomation.pdb

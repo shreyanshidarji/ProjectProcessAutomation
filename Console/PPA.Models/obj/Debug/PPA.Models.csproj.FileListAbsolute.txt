@@ -1,0 +1,6 @@
+D:\gitpro\ProjectProcessAutomation\Console\PPA.Models\bin\Debug\PPA.Models.dll
+D:\gitpro\ProjectProcessAutomation\Console\PPA.Models\bin\Debug\PPA.Models.pdb
+D:\gitpro\ProjectProcessAutomation\Console\PPA.Models\obj\Debug\PPA.Models.csproj.AssemblyReference.cache
+D:\gitpro\ProjectProcessAutomation\Console\PPA.Models\obj\Debug\PPA.Models.csproj.CoreCompileInputs.cache
+D:\gitpro\ProjectProcessAutomation\Console\PPA.Models\obj\Debug\PPA.Models.dll
+D:\gitpro\ProjectProcessAutomation\Console\PPA.Models\obj\Debug\PPA.Models.pdb

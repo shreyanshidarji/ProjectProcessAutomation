@@ -1,0 +1,9 @@
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\bin\Debug\PPA.DataAccess.dll
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\bin\Debug\PPA.DataAccess.pdb
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\bin\Debug\PPA.Models.dll
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\bin\Debug\PPA.Models.pdb
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\obj\Debug\PPA.DataAccess.csproj.AssemblyReference.cache
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\obj\Debug\PPA.DataAccess.csproj.CoreCompileInputs.cache
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\obj\Debug\PPA.DataAccess.csproj.CopyComplete
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\obj\Debug\PPA.DataAccess.dll
+D:\gitpro\ProjectProcessAutomation\Console\PPA.DataAccess\obj\Debug\PPA.DataAccess.pdb

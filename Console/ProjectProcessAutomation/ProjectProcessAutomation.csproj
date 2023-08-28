@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -48,6 +49,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PPA.DataAccess\PPA.DataAccess.csproj">
+      <Project>{3ab7e218-acbc-4a0d-ba9b-b42447d5717c}</Project>
+      <Name>PPA.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PPA.Models\PPA.Models.csproj">
+      <Project>{684279d7-731e-4ccc-8b8b-1e1ee074e29f}</Project>
+      <Name>PPA.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
