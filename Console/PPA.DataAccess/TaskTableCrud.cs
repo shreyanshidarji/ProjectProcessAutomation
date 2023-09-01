@@ -8,19 +8,19 @@ using System.Threading.Tasks;
 
 namespace PPA.DataAccess
 {
-    public class UserCrud
+    public class TaskTableCrud
     {
-        public void insertUser()
+        public void insertTask()
         {
             // Create connection string and assing to class
             SqlConnection sqlconn = new SqlConnection(ConfigurationManager.ConnectionStrings["connection"].ToString());
             sqlconn.Open();
             // Generate Query
-            string query = "insert into ppa.UserTable values (7,'rajesh','rjs123','rjs@yahoo.com','9495936250',0,40000,GETDATE(),GETDATE())";
+            string query = "insert into ppa.TaskTable values (8,'task2',3,4,3,GETDATE(),GETDATE())";
             SqlCommand cmd = new SqlCommand(query, sqlconn);
             cmd.CommandType = System.Data.CommandType.Text;
             cmd.ExecuteNonQuery();
-            sqlconn.Close(); 
+            sqlconn.Close();
         }
     }
 }

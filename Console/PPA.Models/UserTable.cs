@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PPA.Models
 {
-    public class Userclass:Baseclass<int,DateTime>
+    public class Userclass:Baseclass<int>
     {
         public string userName { get; set; }
         public string userPassword { get; set; }
@@ -15,11 +15,11 @@ namespace PPA.Models
         public string userMobile { get; set; }
         public bool userActive { get; set; }
         public int userSalary { get; set; }
+        public DateTime createdOn { get; set; }
+        public DateTime updatedOn { get; set; }
+
     }
-    public class ProjectTeachnology:Baseclass<int,DateTime>
-    {
-        public string projectTeachnology { get; set; }
-    }
+    
 
 
 

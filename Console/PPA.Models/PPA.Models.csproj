@@ -41,6 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActivityTable.cs" />
+    <Compile Include="AssignProjectToUserTable.cs" />
+    <Compile Include="AssignRoleTable.cs" />
+    <Compile Include="AssignTaskToUserTable.cs" />
+    <Compile Include="AttachmentTable.cs" />
+    <Compile Include="CompletedTaskTable.cs" />
+    <Compile Include="LookUpValue.cs" />
+    <Compile Include="ProjectTable.cs" />
+    <Compile Include="ProjectTeachnologyTable.cs" />
+    <Compile Include="RoleTable.cs" />
+    <Compile Include="TaskTable.cs" />
     <Compile Include="UserTable.cs" />
     <Compile Include="genericclass\Baseclass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace PPA.Models.genericclass
 {
-   public  class Baseclass<T,V>
+   public  class Baseclass<T>
     {
         public T id { get; set; }
-        public V createdOn { get; set; }
-        public V updatedOn { get; set; }
+   
 
     }
 }
