@@ -10,7 +10,6 @@ namespace PPA.Models
     class AttachmentTable :Baseclass<int>
     {
         public string attachmentURL { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+    
     }
 }

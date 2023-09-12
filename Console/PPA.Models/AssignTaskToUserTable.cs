@@ -15,7 +15,6 @@ namespace PPA.Models
         public int taskStatus { get; set; }
         //comes from lookupvalue
         public string assignTaskComment { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+      
     }
 }

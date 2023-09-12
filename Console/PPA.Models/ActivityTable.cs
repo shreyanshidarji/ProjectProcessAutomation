@@ -11,7 +11,6 @@ namespace PPA.Models
     {
         public string activityName { get; set; }
         public bool activityActive { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+      
     }
 }

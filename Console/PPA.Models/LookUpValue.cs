@@ -11,7 +11,6 @@ namespace PPA.Models
     {
         public string lookUpValueName { get; set; }
         public int lookupValueCode { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+ 
     }
 }

@@ -13,7 +13,6 @@ namespace PPA.Models
     public int projectTechnologyId { get; set; }
     public bool projectActive { get; set; }
     public string projectDescription { get; set; }
-    public DateTime createdOn { get; set; }
-    public DateTime updatedOn { get; set; }
+
     }
 }

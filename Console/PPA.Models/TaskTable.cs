@@ -14,8 +14,7 @@ namespace PPA.Models
         public int taskType { get; set; }
         public int projectId { get; set; }
         public int activityId { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+ 
 
     }
    

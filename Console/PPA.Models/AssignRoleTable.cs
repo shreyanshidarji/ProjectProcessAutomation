@@ -11,7 +11,6 @@ namespace PPA.Models
     {
         public int roleId { get; set; }
         public int userId { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+   
     }
 }

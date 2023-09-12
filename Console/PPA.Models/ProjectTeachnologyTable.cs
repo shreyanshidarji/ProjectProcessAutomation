@@ -10,7 +10,6 @@ namespace PPA.Models
     class ProjectTeachnologyTable : Baseclass<int>
     {
         public string projectTechnologyName { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+       
     }
 }

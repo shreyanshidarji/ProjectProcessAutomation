@@ -15,8 +15,7 @@ namespace PPA.Models
         public string userMobile { get; set; }
         public bool userActive { get; set; }
         public int userSalary { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+ 
 
     }
     

@@ -13,7 +13,6 @@ namespace PPA.Models
         public int userId { get; set; }
         public int attachmentId { get; set; }
         public string comment { get; set; }
-        public DateTime createdOn { get; set; }
-        public DateTime updatedOn { get; set; }
+   
     }
 }
